@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/stephengarneradobe/StephenDemo/
+    type: markup
+
+folders:
+  /products/: /products/default
